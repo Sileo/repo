@@ -1,0 +1,23 @@
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm
+Version: 2.0.2-tale1
+Priority: required
+Section: Packaging
+Maintainer: Aarnav Tale <support@renai.me>
+Installed-Size: 12476
+Pre-Depends: debianutils, dpkg (>= 1.18)
+Depends: apt (>= 1.8.0), coreutils (>=8.31-1), dpkg (>= 1.19.2-4), zsh | bash, cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0)
+Conflicts: cydia-gui (<<99.0)
+Filename: ./pool/org.coolstar.sileo_2.0.2-tale1_iphoneos-arm.deb
+Size: 3265240
+MD5sum: 1f1b55ae4280e07a927d36fc2d49af6f
+SHA1: 56ca0749380a8488ef38de2bd6a830b43ce28413
+SHA256: 83edab20bd03203ba4cba277cbc0384a56cbf26627892270e925780ef466784e
+SHA512: 1d533e03dce00e8ca477c668bee06e1119eef783ced2af08044e9fac94aa08f2f1dab093caf6bf466f604674c79f61c157838dcb3b1f0bb1cf93b431c9d3decf
+Description: A proper APT client for iOS 12 and higher on devices using Elucubratus. (View this package in Sileo to see the full depiction)
+Tag: cydia::essential
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+Name: Sileo
+Author: Sileo Team <getsileoapp@gmail.com>
+

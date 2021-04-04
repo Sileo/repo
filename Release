@@ -1,0 +1,33 @@
+Architectures: iphoneos-arm
+Codename: ios
+Components: main
+Date: Mon, 05 Apr 2021 15:57:46 +0000
+Description: Sileo for Checkra1n and Unc0ver (Elucubratus)
+Label: Sileo
+Origin: Sileo
+Suite: stable
+Version: 2.0
+MD5Sum:
+ 4e9ab2f638d37fa8f72c59d8a8a4a020             1089 Packages
+ 4eba2bee2a3a651754888788f422f9fa              776 Packages.bz2
+ 9aba59493e79c0edfb78acd4add16934              808 Packages.xz
+ aeef8c411e4428c39fc8ddf2fb531ad5              731 Packages.zst
+ fdddb2d130491baab0add7bfbf0152d3              210 Release
+SHA1:
+ c546b139e7c20cc12ef967e91aeec6fd8166f373             1089 Packages
+ ba4fcb9fd27cebdb24632e4f0c1a8bcd8b298897              776 Packages.bz2
+ 00507c3cb0ec952f538a1697f319c44b4e6ae81d              808 Packages.xz
+ 7b4a8a509867c0a47c629da49c95a9713ed8942f              731 Packages.zst
+ e1ff61b4f390b52993c54ee28f487cd5f8d64686              210 Release
+SHA256:
+ 0b1dd5110a28c05196de85a55b5eaafaf0f2a619746012fd2e4f93fbec72b799             1089 Packages
+ 5f17118ace22733532c1035b31de0547659449251cf97b96b28a05703cd77590              776 Packages.bz2
+ ee50a25205d6fb5aaa5a38ef46781631f739b49dc20fc1447402dd04fb531118              808 Packages.xz
+ 1be5654c9706720ac41f0bcf18e228309b9aa8383a5c3588e5c16f510c7d62c3              731 Packages.zst
+ 1d442eafd36f3915e5596dcecd440ef1d7a4b02b9dc4a20aa3652b8bf6442152              210 Release
+SHA512:
+ a241ab8712dc76dc8d918d2cffbfc39ef9aaf1dfa79c1bbe06816351c8f2faf3685f3ae40a41f1f675d45eb5c52b7213eb2524c34f8ace7c8e7ffcdb7601cd78             1089 Packages
+ fcfaa38651b27d2e3c9b735e4380a5e2586ad52ad13f3f9667dc4f6420f92c1a4e3206d6c12aae586ce3799687d97479b9aacbd984b41e7e483f747a85879b4f              776 Packages.bz2
+ 50fd43541d34863eb5653e2ddfbc21cb50560ddbfe470133879d643b8f5fcfac034ea4d85b575fdca5b4b6b511e875e0482a7102bed282b3ed7e781962959ce0              808 Packages.xz
+ 2c79e02fce5f1e8c3e993a4a85c8b69100268378451fa8a656984fb8cc9e3eefb1967b71fda08b93858c3f98e7ebfbd0c493946c59de148c0af8b3d28c1f5224              731 Packages.zst
+ 7b8ee594dd47558ff43b07a7a00138ad51b6d89a50725223cea140400a710b6ba55f40ee20c833bcaca8a4a532c3f3bec26ec4f02fa8f512bdd4aaa4de639abf              210 Release
