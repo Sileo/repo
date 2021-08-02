@@ -1,3 +1,22 @@
+Package: libzstd1
+Architecture: iphoneos-arm
+Version: 1.5.0
+Section: Libraries
+Maintainer: Aarnav Tale <aarnav@tale.me>
+Installed-Size: 1192
+Depends: lz4, lzma
+Filename: ./pool/libzstd1_1.5.0_iphoneos-arm.deb
+Size: 304812
+MD5sum: 341308b19358c4daa93f60a7ff2ba5a1
+SHA1: 77c2b36fb189361ccebbeb3207c98dfe14bf8cc1
+SHA256: 8bddfd21ec9e5ce343c3b39281b2b9281a84c8a48f95eb50659d627fdc37fa0a
+SHA512: e0350f38f6120ee34bf570660eabe2aaa84fdbd87b9611213d4f93149c495bd17dee8c852be097ee509ce8d4f7bf50b6b45bf58672f93cfae3cd493c376517ae
+Description: fast lossless compression algorithm
+ Zstd, short for Zstandard, is a fast lossless compression algorithm, targeting
+ real-time compression scenarios at zlib-level compression ratio.
+ .
+ This package contains the shared library.
+
 Package: org.coolstar.sileo
 Architecture: iphoneos-arm
 Version: 2.0.2-tale1
