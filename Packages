@@ -40,3 +40,21 @@ SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 Name: Sileo
 Author: Sileo Team <getsileoapp@gmail.com>
 
+Package: org.coolstar.sileobeta
+Architecture: iphoneos-arm
+Version: 2.2+20210814.1628906886.2dcc5b1
+Section: Packaging
+Maintainer: Hayden Seay <me@diatr.us>
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.31-1), dpkg (>= 1.19.7-2), apt (>= 1.8.2), libzstd1
+Filename: ./pool/org.coolstar.sileobeta_2.220210814.1628906886.2dcc5b1_iphoneos-arm.deb
+Size: 2172448
+MD5sum: 2000c46d281931ec150282e1d9435b77
+SHA1: 48f5f8ea9199f9e53d861f10e9f1da22d6364b6e
+SHA256: a93c4f2fe2ca5d6bf6b44dc72ec4afdba0462991d509c2a47f1813048cfcbf01
+SHA512: 9e3c4b16fc19b586f7af67646efccd4db4e693d347bbf3e086c9a40249824fa4f2d6dde86227f3a4b8061858057bc3d17823e7434bbcf8fc2553a86712eed48d
+Description: A modern APT package manager frontend
+Name: Sileo (Beta Channel)
+Author: Sileo Team <getsileoapp@gmail.com>
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
