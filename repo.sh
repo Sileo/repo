@@ -22,7 +22,7 @@ apt-ftparchive \
 		-o APT::FTPArchive::Release::Description="Sileo for Checkra1n and Unc0ver" \
 		release . > Release
 
-echo "[Repository] Signing Release using Aarnav Tale's GPG Key..."
-gpg -abs -u 69C3FF3E2EC88EECBB4459A8D180E48E41577607 -o Release.gpg Release
+echo "[Repository] Signing Release using Amy's GPG Key..."
+gpg -abs -u 816C7A50B575162DC29288CD72339224580758CE -o Release.gpg Release
 
 echo "[Repository] Finished"
