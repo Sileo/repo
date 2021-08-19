@@ -19,6 +19,24 @@ Description: fast lossless compression algorithm
 
 Package: org.coolstar.sileo
 Architecture: iphoneos-arm
+Version: 2.2.1
+Section: Packaging
+Maintainer: Hayden Seay <me@diatr.us>
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.31-1), dpkg (>= 1.19.7-2), apt (>= 1.8.2), libzstd1
+Filename: ./pool/org.coolstar.sileo_2.2.1_iphoneos-arm.deb
+Size: 2198572
+MD5sum: 233bf16cf4ac47351c946c29cfa78230
+SHA1: 379b9b2d806e79638be6db315172a3a57c4cb016
+SHA256: 02d61d4dbd645f881774e3e30cbcf89e06d384025d15c3f599290008b2e4ae94
+SHA512: 3f8156b115c266561aba6caca87eade803fb74d26946e6ec4a37c8bd40739a2d957cba3144b8f681d36301b463ae3d8a6fe3d93f9cd105c780935e5bde9ee8aa
+Description: A modern APT package manager frontend
+Name: Sileo
+Author: Sileo Team <getsileoapp@gmail.com>
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm
 Version: 2.2
 Section: Packaging
 Maintainer: Hayden Seay <me@diatr.us>
