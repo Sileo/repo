@@ -17,7 +17,7 @@ apt-ftparchive \
 		-o APT::FTPArchive::Release::Suite="stable" \
 		-o APT::FTPArchive::Release::Version="2.0" \
 		-o APT::FTPArchive::Release::Codename="ios" \
-		-o APT::FTPArchive::Release::Architectures="iphoneos-arm" \
+		-o APT::FTPArchive::Release::Architectures="iphoneos-arm iphoneos-arm64" \
 		-o APT::FTPArchive::Release::Components="main" \
 		-o APT::FTPArchive::Release::Description="Sileo for Checkra1n and Unc0ver" \
 		release . > Release
