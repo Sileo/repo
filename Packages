@@ -17,6 +17,24 @@ Description: fast lossless compression algorithm
  .
  This package contains the shared library.
 
+Package: lz4
+Architecture: iphoneos-arm
+Version: 1.7.5-1
+Multi-Arch: foreign
+Section: Archiving
+Maintainer: Amy While <me@anamy.gay>
+Installed-Size: 1032
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./pool/lz4_1.7.5-1_iphoneos-arm.deb
+Size: 81660
+MD5sum: d740f1157ab8ead985f3565620c746eb
+SHA1: d35fc9b50f9bce05ad3e0225976f1fe1060c5420
+SHA256: 46fe855b143a758b6c7d9c78a8db9911ef6b079cd5ebd1c527f44dd1ba76720a
+SHA512: bad864fa54e122909962d15ff9b1e1b83423c2e43d1142f62d59ef82bb432e7c207c52c4d52ff7d64d6af4a063f807cc16a93f28d61480eccc211acfb636bb92
+Homepage: http://tukaani.org/lzma/
+Description: Extremely Fast Compression algorithm
+Name: LZ4
+
 Package: org.coolstar.sileo
 Architecture: iphoneos-arm
 Version: 2.2.1
