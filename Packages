@@ -271,6 +271,42 @@ SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
 Package: org.coolstar.sileo
 Architecture: iphoneos-arm
+Version: 2.4.4
+Section: Packaging
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./pool/org.coolstar.sileo_2.4.4_iphoneos-arm.deb
+Size: 2578068
+MD5sum: dba01403b20b56503fe414fe91c3beab
+SHA1: 770da45e1573efcc8669133342f8cde6ad73398c
+SHA256: a23139afdf8da26ad2faec36fe4ba7bf15fb776157ee211cfd0854365362651c
+SHA512: 58510cfd16e1d3b0c9fa15bf479c999a7498af0e0f1e9510bfc015244c3a6eff2a78b672af1794f89f50d9d9a7595c27e7ea3f9c9d0d3d99781ff0b846260563
+Description: A modern APT package manager frontend
+Name: Sileo
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm64
+Version: 2.4.4
+Section: Packaging
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./pool/org.coolstar.sileo_2.4.4_iphoneos-arm64.deb
+Size: 2581716
+MD5sum: 2ec9226674621abeabd1f7114dd1a8b3
+SHA1: ee2550f59c31695c70b5947e6bef3e2ca57af836
+SHA256: 83bfcb8bad1506335992e36eebae19c906b724e6b284ba38b0dd09b119f3b201
+SHA512: a9082c0c280df6d27a0f053b6b9d86aada43e6e041a2ee16c4f7e94749fe5f24e492c5b96173ea34927f6a8872a4f8f57ece355cf19cc0f7f574834b5b793eb5
+Description: A modern APT package manager frontend
+Name: Sileo
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm
 Version: 2.4
 Section: Packaging
 Maintainer: Amy While <me@anamy.gay>
@@ -371,6 +407,42 @@ MD5sum: 537b2d103e616fa49c6d17d24f471d92
 SHA1: f6bf011b1e1f66ddc9916d0d07f713fc164ecd80
 SHA256: b4b52807e0fe17f810dc0ba24ef78d88349de7929237fd1bfac36acdd266a4ca
 SHA512: c496620f164a13b49c4da747afdf3f7ae6ebffd6b949f29cd006dd5ab4ad69da8cf5d29dbf5665a972c8aabca029fe878cc5c4e1b132a312f274f4185ac4ec6c
+Description: A modern APT package manager frontend
+Name: Sileo (Nightly Channel)
+Author: Amy While <me@anamy.gay>
+Icon: https://github.com/Sileo/Sileo/raw/stable/Icons/Nightly/Nightly_iOS.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
+Package: org.coolstar.sileonightly
+Architecture: iphoneos-arm
+Version: 2.4.4+20230416.1681674909.6914fdb
+Section: Packaging
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./pool/org.coolstar.sileonightly_2.4.4+20230416.1681674909.6914fdb_iphoneos-arm.deb
+Size: 2578892
+MD5sum: 21c074348a5d0eb8f780c2031c4c8886
+SHA1: 6b862b7b59b00248b64384379b280e119b82a482
+SHA256: 701b88424d6072dd0bc90190b17389badda1fca014ad2fd2cf08d44f641afce0
+SHA512: 899b2146f12913822e8836266960f4d537ad18b951281dd47d08a120f460cd75bdc895fd066fe04e79b4fb1aecaf26c131956b909c0600d005413a024f792a9c
+Description: A modern APT package manager frontend
+Name: Sileo (Nightly Channel)
+Author: Amy While <me@anamy.gay>
+Icon: https://github.com/Sileo/Sileo/raw/stable/Icons/Nightly/Nightly_iOS.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
+Package: org.coolstar.sileonightly
+Architecture: iphoneos-arm64
+Version: 2.4.4+20230416.1681674909.6914fdb
+Section: Packaging
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./pool/org.coolstar.sileonightly_2.4.4+20230416.1681674909.6914fdb_iphoneos-arm64.deb
+Size: 2581564
+MD5sum: e130977b478ff6b251700d0aeaf124a8
+SHA1: 68097e140511dc0a967577c46638a5d7e205a5de
+SHA256: 27b80b5f40d5ea820345409ebdd6a74b7e347e0d7e1eb9eb9f4c582e90cd5a83
+SHA512: 23902c205863a9f5fed9d485caa7d4c3a2349ba0c9246cb0e88536530348e7775d88c502373f6eecaded0f9d3920f71be97c9edf672194def0e215e6ac59a1cd
 Description: A modern APT package manager frontend
 Name: Sileo (Nightly Channel)
 Author: Amy While <me@anamy.gay>
